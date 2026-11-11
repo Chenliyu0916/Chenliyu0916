@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 <img width="1920" height="1080" alt="作業1" src="https://github.com/user-attachments/assets/c88b4abb-625a-4cca-971f-eabaf1852957" />
 <img width="1542" height="864" alt="作業2" src="https://github.com/user-attachments/assets/052df920-7041-464d-afef-8485addb8e86" />
 <img width="2999" height="1998" alt="作業3" src="https://github.com/user-attachments/assets/16a54866-9602-4ee8-88d3-079043b935d5" />
-<img width="3000" height="2000" alt="作業4" src="https://github.com/user-attachments/assets/f85b21d5-6abf-4015-a2eb-3ed31a1840de" />
+<img width="3000" height="2000" alt="作業4-1" src="https://github.com/user-attachments/assets/f85b21d5-6abf-4015-a2eb-3ed31a1840de" />
+<img width="971" height="629" alt="作業4-2" src="https://github.com/user-attachments/assets/6171a530-f320-4b84-a7a9-8543a9618b71" />
 <img width="3000" height="2000" alt="作業5" src="https://github.com/user-attachments/assets/51aca642-fbd1-4e88-b9ad-5d943530dfe4" />
 <img width="3000" height="2000" alt="作業6" src="https://github.com/user-attachments/assets/9e2c7627-d490-4da0-a944-aa2ed677bdb9" />
 <img width="1920" height="1080" alt="作業7" src="https://github.com/user-attachments/assets/6a8dd0b6-05f3-408c-8c36-f988b29e7a88" />
